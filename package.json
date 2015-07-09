@@ -1,0 +1,34 @@
+{
+  "name": "nmessage",
+  "version": "0.0.1",
+  "description": "Simple message storage in one JSON file and simple internationalization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lial/nmessage.git"
+  },
+  "keywords": [
+    "message",
+    "i18n",
+    "simple",
+    "error",
+    "message",
+    "info",
+    "message",
+    "language",
+    "message"
+  ],
+  "author": "LIAL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lial/nmessage/issues"
+  },
+  "homepage": "https://github.com/lial/nmessage",
+  "dependencies": {
+    "nconf": "~0.7.1",
+    "path": "*"
+    }
+}

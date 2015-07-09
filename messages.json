@@ -1,0 +1,18 @@
+{
+    "english": {
+        "error": {
+            "error_message": "Test error message"
+        },
+        "info": {
+            "info_message": "Test info message"
+        }
+    },
+    "russian": {
+        "error": {
+            "error_message": "Тестовое сообщение об ошибке"
+        },
+        "info": {
+            "info_message": "Тестовое сообщение"
+        }
+    }
+}
