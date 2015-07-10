@@ -17,5 +17,5 @@ var message = require("nmessage");
 console.log(message.get("english:error:error_message"));
 ```
 
-You can change structure of messages.json as you need but keep in mind to get necessary meesage use such string pattren:
-**"1_level:2_level:...:n_level"**
+You can change structure of **messages.json** as you need but keep in mind to get necessary meesage use such string pattren:
+**"1_level:2_level: ... :n_level"**
